@@ -1,11 +1,18 @@
 ## Olá! Sou o Vinicius, apaixonado por tecnologia e movido a desafios!
 
+<div align="left">
+	<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>
+	<br><br>
+</div>
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Certificado AWS Cloud Practitioner
 - 💼 Trabalhando como Analista de Tecnologia na F1RST ♨️.
-  
+
+
+
 ## 🚀 Minhas Skills
 
 <div style="display: inline_block"><br>
