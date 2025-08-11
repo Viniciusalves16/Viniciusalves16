@@ -9,6 +9,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Certificado AWS Cloud Practitioner
+- ☁️ Certificado AWS Solutions Architect Associate
 - 💼 Trabalhando como Analista de Tecnologia na F1RST ♨️.
 
 
